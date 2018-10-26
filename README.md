@@ -4,10 +4,11 @@ C++ Concurrency In Action
 -------------------------
 - 作者：Anthony Williams
 - 译者：陈晓伟
+- 学习：赵木木
 
 ## 书签
 ### 2.1 [线程管理基础](https://github.com/MuMuJun97/Cpp_Concurrency_In_Action/blob/master/content/chapter2/2.1-chinese.md)
-### 2.3 [向线程管理传递参数](https://github.com/MuMuJun97/Cpp_Concurrency_In_Action/blob/master/content/chapter2/2.2-chinese.md)
+### 2.2 [向线程管理传递参数](https://github.com/MuMuJun97/Cpp_Concurrency_In_Action/blob/master/content/chapter2/2.2-chinese.md)
 
 ## 本书概述
 
